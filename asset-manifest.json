@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/onlythefoxgodknows.github.io/puzzle/static/css/main.ad77144a.chunk.css",
+    "main.js": "/onlythefoxgodknows.github.io/puzzle/static/js/main.b1dfd066.chunk.js",
+    "main.js.map": "/onlythefoxgodknows.github.io/puzzle/static/js/main.b1dfd066.chunk.js.map",
+    "runtime-main.js": "/onlythefoxgodknows.github.io/puzzle/static/js/runtime-main.df532c5d.js",
+    "runtime-main.js.map": "/onlythefoxgodknows.github.io/puzzle/static/js/runtime-main.df532c5d.js.map",
+    "static/js/2.1d1b6572.chunk.js": "/onlythefoxgodknows.github.io/puzzle/static/js/2.1d1b6572.chunk.js",
+    "static/js/2.1d1b6572.chunk.js.map": "/onlythefoxgodknows.github.io/puzzle/static/js/2.1d1b6572.chunk.js.map",
+    "index.html": "/onlythefoxgodknows.github.io/puzzle/index.html",
+    "precache-manifest.40baaee7eb7f35b913a6e57bbd67a442.js": "/onlythefoxgodknows.github.io/puzzle/precache-manifest.40baaee7eb7f35b913a6e57bbd67a442.js",
+    "service-worker.js": "/onlythefoxgodknows.github.io/puzzle/service-worker.js",
+    "static/css/main.ad77144a.chunk.css.map": "/onlythefoxgodknows.github.io/puzzle/static/css/main.ad77144a.chunk.css.map",
+    "static/js/2.1d1b6572.chunk.js.LICENSE.txt": "/onlythefoxgodknows.github.io/puzzle/static/js/2.1d1b6572.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/onlythefoxgodknows.github.io/puzzle/static/media/0.362e2e5b.jpg",
+    "static/media/1.jpg": "/onlythefoxgodknows.github.io/puzzle/static/media/1.b78a7205.jpg",
+    "static/media/2.jpg": "/onlythefoxgodknows.github.io/puzzle/static/media/2.ac0a00d7.jpg",
+    "static/media/3.jpg": "/onlythefoxgodknows.github.io/puzzle/static/media/3.eb169542.jpg",
+    "static/media/5.jpg": "/onlythefoxgodknows.github.io/puzzle/static/media/5.b982a43a.jpg",
+    "static/media/logo.svg": "/onlythefoxgodknows.github.io/puzzle/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df532c5d.js",
+    "static/js/2.1d1b6572.chunk.js",
+    "static/css/main.ad77144a.chunk.css",
+    "static/js/main.b1dfd066.chunk.js"
+  ]
+}
